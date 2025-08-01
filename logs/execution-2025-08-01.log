@@ -1,0 +1,293 @@
+[2025-08-01 13:58:08] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 13:58:08] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 13:58:08] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 13:59:17] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 13:59:17] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 13:59:17] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 13:59:55] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 13:59:55] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 13:59:55] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 14:01:46] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 14:01:46] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 14:01:46] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 14:07:59] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 14:08:53] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 14:09:44] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 14:09:47] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 14:09:48] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 14:10:55] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 14:10:56] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 14:10:57] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 14:10:57] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 15:20:28] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 15:20:30] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 15:20:30] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 15:20:30] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:01:25] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:01:27] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:01:28] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:01:28] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:01:29] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:01:29] [[32MINFO[39M]: ## STEP ## : The title of the page is: [object Promise]
+[2025-08-01 16:03:54] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:03:57] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:03:57] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:03:58] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:04:01] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:05:06] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:05:08] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:05:08] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:05:08] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:05:10] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:07:14] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:07:16] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:07:16] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:07:16] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:07:18] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:08:44] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:08:46] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:08:47] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:08:47] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:08:50] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:08:52] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 16:08:52] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 16:10:16] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:10:18] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:10:18] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:10:18] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:10:19] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:10:21] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 16:10:21] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 16:10:21] [[32MINFO[39M]: ## STEP ## : Getting the Selected Nav Side Menu Item Label
+[2025-08-01 16:10:21] [[32MINFO[39M]: ## STEP ## : Getting the Locator actived in Nav Menu
+[2025-08-01 16:10:21] [[32MINFO[39M]: ## STEP ## : The selected item there is: Dashboard
+[2025-08-01 16:10:21] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 16:11:54] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:11:56] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:11:58] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:11:58] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:11:59] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:12:00] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 16:12:00] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 16:12:00] [[32MINFO[39M]: ## STEP ## : Getting the Selected Nav Side Menu Item Label
+[2025-08-01 16:12:00] [[32MINFO[39M]: ## STEP ## : Getting the Locator actived in Nav Menu
+[2025-08-01 16:12:00] [[32MINFO[39M]: ## STEP ## : The selected item there is: Dashboard
+[2025-08-01 16:12:00] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 16:30:45] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:30:47] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:30:47] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:30:47] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:30:47] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 16:30:50] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 16:30:50] [[32MINFO[39M]: ## STEP ## : The title of the page is: Recruitment
+[2025-08-01 16:30:50] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Recruitment
+[2025-08-01 16:31:10] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 16:31:11] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 16:31:11] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 16:31:11] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 16:31:12] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:28:40] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:28:42] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:28:43] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:28:43] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:28:45] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:28:50] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:33:03] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:33:05] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:33:06] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:33:06] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:33:07] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:33:09] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:33:10] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Josefina
+[2025-08-01 17:33:11] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Glover
+[2025-08-01 17:33:11] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:33:11] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 17:33:11] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 17:36:10] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:36:11] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:36:12] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:36:13] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:36:13] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:36:13] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:36:13] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:36:13] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : Getting the Selected Nav Side Menu Item Label
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : Getting the Locator actived in Nav Menu
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : The selected item there is: Dashboard
+[2025-08-01 17:36:14] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 17:36:16] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:36:16] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Jessika
+[2025-08-01 17:36:17] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Beahan
+[2025-08-01 17:36:17] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:36:17] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 17:36:17] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 17:49:18] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:49:20] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:49:21] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:49:21] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:49:22] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 17:49:23] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 17:49:23] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 17:49:23] [[32MINFO[39M]: ## STEP ## : Getting the Selected Nav Side Menu Item Label
+[2025-08-01 17:49:23] [[32MINFO[39M]: ## STEP ## : Getting the Locator actived in Nav Menu
+[2025-08-01 17:49:23] [[32MINFO[39M]: ## STEP ## : The selected item there is: Dashboard
+[2025-08-01 17:49:23] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 17:52:19] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:52:21] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:52:22] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:52:22] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:52:23] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:52:25] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:52:26] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Presley
+[2025-08-01 17:52:26] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Sawayn
+[2025-08-01 17:52:26] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:52:26] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 17:52:27] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 17:53:14] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:53:16] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:53:17] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:53:17] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:53:18] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:53:19] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:53:20] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Alberta
+[2025-08-01 17:53:21] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Sanford
+[2025-08-01 17:53:21] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:53:21] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 17:53:54] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:53:56] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:53:57] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:53:57] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:53:57] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:53:59] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:54:00] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Arnaldo
+[2025-08-01 17:54:00] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Schoen
+[2025-08-01 17:54:00] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:54:00] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 17:54:45] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:54:46] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:54:47] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:54:47] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:54:48] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:54:49] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:54:51] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Micah
+[2025-08-01 17:54:51] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Keeling
+[2025-08-01 17:54:51] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:54:51] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 17:55:06] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:55:08] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:55:08] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:55:08] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:55:08] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 17:55:10] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 17:55:10] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 17:55:10] [[32MINFO[39M]: ## STEP ## : Getting the Selected Nav Side Menu Item Label
+[2025-08-01 17:55:10] [[32MINFO[39M]: ## STEP ## : Getting the Locator actived in Nav Menu
+[2025-08-01 17:55:10] [[32MINFO[39M]: ## STEP ## : The selected item there is: Dashboard
+[2025-08-01 17:55:10] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 17:55:37] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 17:55:38] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 17:55:39] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:55:39] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 17:55:40] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 17:55:41] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 17:55:42] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Melissa
+[2025-08-01 17:55:43] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Christiansen
+[2025-08-01 17:55:43] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 17:55:43] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 18:14:39] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 18:14:41] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 18:14:41] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 18:14:41] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 18:14:43] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 18:14:44] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 18:14:45] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Leif
+[2025-08-01 18:14:45] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Olson
+[2025-08-01 18:14:45] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 18:14:45] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 18:14:46] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 18:55:15] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 18:55:17] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 18:55:17] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 18:55:17] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 18:55:18] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 18:55:20] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 18:55:21] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Juston
+[2025-08-01 18:55:21] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Torp
+[2025-08-01 18:55:21] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 18:55:22] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 18:55:22] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 18:55:22] [[32MINFO[39M]: ## STEP ## : titelAdd Candidate
+[2025-08-01 18:57:59] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 19:01:41] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 19:01:46] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:01:48] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 19:01:50] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 19:01:55] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 19:01:59] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Antwan
+[2025-08-01 19:02:04] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Harber
+[2025-08-01 19:02:06] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:02:09] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 19:02:12] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 19:05:57] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 19:05:59] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 19:05:59] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:05:59] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 19:05:59] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 19:06:01] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 19:06:02] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Alexa
+[2025-08-01 19:06:03] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Windler
+[2025-08-01 19:06:03] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:06:03] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 19:06:03] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 19:06:03] [[32MINFO[39M]: ## STEP ## : titleAdd Candidate
+[2025-08-01 19:09:17] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 19:09:19] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 19:09:19] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:09:19] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 19:09:20] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 19:09:22] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 19:09:23] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Amira
+[2025-08-01 19:09:24] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Stracke
+[2025-08-01 19:09:24] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:09:24] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 19:09:24] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 19:09:28] [[32MINFO[39M]: ## STEP ## : titleApplication Stage
+[2025-08-01 19:18:25] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 19:18:27] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 19:18:28] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:18:28] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 19:18:28] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 19:18:30] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 19:18:31] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Magnus
+[2025-08-01 19:18:32] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: White
+[2025-08-01 19:18:32] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:18:32] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 19:18:32] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 19:18:36] [[32MINFO[39M]: ## STEP ## : titleApplication Stage
+[2025-08-01 19:20:51] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 19:20:53] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 19:20:53] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:20:53] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 19:20:53] [[32MINFO[39M]: ## STEP ## : Clicking in the option: Recruitment in the Nav side Menu 
+[2025-08-01 19:20:56] [[32MINFO[39M]: ## STEP ## : Clicking in Add to create a new candidate register
+[2025-08-01 19:20:56] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Liana
+[2025-08-01 19:20:57] [[32MINFO[39M]: ## STEP ## : Fill in the first Name field with: Reynolds
+[2025-08-01 19:20:57] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:20:57] [[32MINFO[39M]: ## STEP ## : Click on the save Button
+[2025-08-01 19:20:57] [[32MINFO[39M]: ## STEP ## : Validating candidate creation
+[2025-08-01 19:21:01] [[32MINFO[39M]: ## STEP ## : titleApplication Stage
+[2025-08-01 19:27:13] [[32MINFO[39M]: ## STEP ## : Acessing login page!!
+[2025-08-01 19:27:14] [[32MINFO[39M]: ## STEP ## : Fill in the login field with the user Admin
+[2025-08-01 19:27:15] [[32MINFO[39M]: ## STEP ## : Fill in the password
+[2025-08-01 19:27:15] [[32MINFO[39M]: ## STEP ## : Clicking on login Button
+[2025-08-01 19:27:15] [[32MINFO[39M]: ## STEP ## : Getting the title of the page
+[2025-08-01 19:27:16] [[32MINFO[39M]: ## STEP ## : The title of the page is: Dashboard
+[2025-08-01 19:27:16] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
+[2025-08-01 19:27:16] [[32MINFO[39M]: ## STEP ## : Getting the Selected Nav Side Menu Item Label
+[2025-08-01 19:27:16] [[32MINFO[39M]: ## STEP ## : Getting the Locator actived in Nav Menu
+[2025-08-01 19:27:16] [[32MINFO[39M]: ## STEP ## : The selected item there is: Dashboard
+[2025-08-01 19:27:16] [[32MINFO[39M]: ## STEP ## : Comparing if the expected selected menu: Dashboard is the same as the one selected: Dashboard
